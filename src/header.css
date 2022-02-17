@@ -1,0 +1,30 @@
+.header-container{
+    display:flex;
+    align-items: center;
+    box-shadow: 0px 0px 3px;
+    border-bottom: 2px solid grey;
+}
+.header-button{
+    display: flex;
+    align-items: center;
+    height: 26px;
+    border-radius: 38px;
+    justify-content: space-evenly;
+    width: 107px;
+    padding: 3px;
+    background:#4b74ff;
+}
+.header-button> img{
+    width: 14%;
+}
+.header-button > span{
+font-size: 13px;
+color:#FFFF;
+font-weight: 600;
+}
+h1{
+    color: #000000b8;
+    font-family: sans-serif;
+    margin-left: 25px;
+    margin: 20px 20px;
+}
